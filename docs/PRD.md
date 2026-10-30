@@ -44,14 +44,13 @@ L'interface de bureau faite avec Rainmeter (widgets du bureau 1, écran d'accuei
 - Animations décoratives (rebonds, parallaxe, fond animé) au-delà d'un léger survol des boutons.
 - Glisser-déposer pour réorganiser les tuiles (l'ordre vient du préfixe numérique des fichiers).
 - Thème clair, multi-écran avancé, support de Windows 10.
-- Publication dans le dépôt officiel `windhawk-mods`.
 - Toute connexion réseau, télémétrie ou mise à jour automatique. Deux exceptions décidées par David le 30/10/2026 : ouvrir le navigateur (recherche web, sites), et faire photographier un site par Chrome invisible une seule fois pour son aperçu. Le mod lui-même n'a aucun code réseau.
 - Raccourci clavier global pour ouvrir la barre de recherche (Backlog si besoin).
 
 ## Backlog (idées gardées au frais)
 - Petits points en haut de l'écran indiquant le bureau actuel : repère utile, mais pas indispensable au cœur.
 - Thème clair crème : cohérent avec les goûts de David, mais double le travail de test.
-- Publication dans `windhawk-mods` : à envisager une fois le mod stable plusieurs semaines.
+- Publication dans `windhawk-mods` : proposée le 31/10/2026 à la demande de David (pull request depuis le fork Drawm07/windhawk-mods, branche verre-desktop), en attente de relecture.
 - Réordonner les tuiles à la souris.
 - V2 : fonds d'écran animés (David les fabriquera).
 
