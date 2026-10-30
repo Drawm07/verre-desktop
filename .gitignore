@@ -1,0 +1,10 @@
+# Fichiers locaux et secrets
+*.local.*
+.env
+# Captures de test brutes
+captures/brut/
+# Windows
+Thumbs.db
+desktop.ini
+# Brief de travail (chemins personnels) : gardé en local
+BRIEF-Claude-Code.md
